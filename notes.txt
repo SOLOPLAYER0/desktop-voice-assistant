@@ -1,0 +1,23 @@
+My name is Shashank.
+
+## DAILY SCHEDULE
+
+6:00 AM - Wake up, drink water
+6:30 AM - Gym time (1 hour)
+8:00 AM - Breakfast
+9:00 AM - College classes
+1:30 PM - Lunch break
+2:00 PM - Project work / Coding
+5:00 PM - Relax / Walk / Snacks
+6:00 PM - Gym (if missed morning session)
+7:30 PM - Study NLP / ML
+9:00 PM - Dinner
+10:00 PM - Revision / Light reading
+11:00 PM - Sleep
+
+
+## IMPORTANT TASKS
+- Prepare NLP project  
+- Continue DSA practice  
+- Work on ML model optimization  
+- Maintain calorie surplus for muscle gain  
